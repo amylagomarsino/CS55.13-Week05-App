@@ -1,0 +1,23 @@
+[
+  { 
+    "name": "Moe Howard",
+    "email": "moe@threestooges.com",
+    "phone": "555-555-1234",
+    "birthdate": "06/19/1897",
+    "id": 1
+  },
+  { 
+    "name": "Larry Fine",
+    "email": "larry@threestooges.com",
+    "phone": "555-555-5678",
+    "birthdate": "10/05/1902",
+    "id": 2
+  },
+  { 
+    "name": "Shemp Howard",
+    "email": "shemp@threestooges.com",
+    "phone": "555-555-9012",
+    "birthdate": "03/17/1895",
+    "id": 3
+  }
+]
