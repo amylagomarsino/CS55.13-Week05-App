@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders homepage unchanged 1`] = `
+<div>
+  <main>
+    <h1>
+      List of Names
+    </h1>
+    <div
+      className="list-group"
+    />
+  </main>
+</div>
+`;
